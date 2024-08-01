@@ -2,6 +2,7 @@ import CategoryItem from './components/category-item/category-item.component';
 
 import './categories.styles.scss';
 
+//test
 const App = () => {
   const categories = [
     {
